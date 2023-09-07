@@ -71,7 +71,7 @@ ul li{
 
 #main1{
     background-size: cover;
-    background-image: url(/portofolioimages/imagesbf.png);
+    background-image: url(portofolioimages/imagesbf.png);
     
 }
 .footer {
@@ -86,7 +86,7 @@ ul li{
 
  #main2{
     background-size: cover;
-    background-image: url(/portofolioimages/main2.jpg);
+    background-image: url(portofolioimages/main2.jpg);
     
 }
 .id2{
@@ -153,7 +153,7 @@ ul li{
 } 
 #main3{
     background-size: cover;
-    background-image: url(/portofolioimages/study.jpg);
+    background-image: url(portofolioimages/study.jpg);
 }
 .id3{
     
@@ -201,7 +201,7 @@ ul li{
 }
 #main4{
     background-size: cover;
-    background-image: url(/portofolioimages/conti.jpg);
+    background-image: url(portofolioimages/conti.jpg);
 }
 .id6{
     color: rgb(7, 7, 7);
