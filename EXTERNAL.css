@@ -1,0 +1,191 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+.header .nav ul {
+    display: flex;
+    background-color: rgb(17, 17, 17);
+    
+    justify-content: space-evenly;
+    height: 30px;
+    line-height: 25px;
+    border-radius: 30px;
+    text-decoration: none; 
+
+}
+.header .nav a{
+   text-decoration: none;
+   
+   color: white;
+}
+
+ .id1{
+    
+    color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+    border: 5px;
+    border-color: aqua;
+    font-weight: bolder;
+    
+}
+
+.id1 h1{
+    color: rgb(252, 249, 249);
+
+}
+.id1 h2{
+    color: rgb(10, 10, 10);
+
+    }
+    .id1 h3{
+        color: rgb(246, 243, 243);
+    
+    }
+    .id1 h4{
+        color: rgb(14, 13, 13);
+    
+    }
+
+#main1{
+    background-size: cover;
+    background-image: url(portofolioimages/imagesbf.png);
+    
+}
+ .nav ul li a:hover{
+    transition: all 0.8s;
+    color: aqua;
+}
+
+ 
+
+#main2{
+    background-size: cover;
+    background-image: url(portofolioimages/main2.jpg);
+    
+}
+.id2{
+    color: rgb(244, 7, 7);
+    margin-top: 300px;
+    margin-left: 100px;
+    border: 5px;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.id2 h1{
+    color: rgb(11, 11, 11);
+
+}
+.id2 h2{
+    color: rgb(11, 11, 11);
+
+}
+.image2{
+    width:30%;
+    height:60%;
+    position:absolute;
+    right:100px;
+    bottom:0;
+    border: green 5px;
+
+}
+
+.image2 img{
+    position:absolute;
+    width:280px;
+    height:280px;
+    left:-30px;
+    bottom: 300px;
+    margin-right: 200px;
+    border: 3px solid rgb(9, 9, 9);
+    border-radius: 90px;
+}
+
+.image4{
+    width:30%;
+    height:60%;
+    position:absolute;
+    right:100px;
+    bottom:0;
+    border: green 5px;
+
+}
+
+.image4 img{
+    position:absolute;
+    width:280px;
+    height:280px;
+    left:-30px;
+    bottom: 300px;
+    margin-right: 200px;
+    
+    border-radius: 90px;
+} 
+#main3{
+    background-size: cover;
+    background-image: url(portofolioimages/study.jpg);
+}
+.id3{
+    
+    color: rgb(11, 11, 11);
+    margin-top: 200px;
+    margin-left: 400px;
+    border: 5px;
+    
+    font-weight: bolder;
+    
+}
+.id4{
+    color: rgb(11, 11, 11);
+    margin-top: 100px;
+    margin-left: 100px;
+    border: 5px;
+    
+    font-weight: bolder;
+}
+.id5{
+    color: rgb(7, 7, 7);
+    margin-top: 100px;
+    margin-left: 100px;
+    border: 5px;
+    
+    font-weight: bolder;
+}
+.image5{
+    width:30%;
+    height:60%;
+    position:absolute;
+    right:100px;
+    bottom:0;
+    border: green 5px;
+
+}
+.image5 img{
+    position:absolute;
+    width:280px;
+    height:280px;
+    left:-30px;
+    bottom: 300px;
+    margin-right: 200px;
+}
+#main4{
+    background-size: cover;
+    background-image: url(portofolioimages/conti.jpg);
+}
+.id6{
+    color: rgb(7, 7, 7);
+    margin-top: 100px;
+    margin-left: 200px;
+    border: 5px;
+    font-weight: bolder;
+}
+.id5 h2{
+    color: rgb(233, 12, 12);
+
+}
+.id6 h2{
+    color: rgb(233, 12, 163);
+
+}
